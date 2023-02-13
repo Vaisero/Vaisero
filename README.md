@@ -5,13 +5,16 @@
 - 🌱 В настоящее время я учусь в "https://www.tu-bryansk.ru/index.php"
 - 🤔 Пройденые курсы: 
 
-###📫 Как связаться со мной
+### Как связаться со мной📫
 
 
-[Telegram](https://t.me/existin9)
-[GitHub](https://github.com/Vaisero)
-[LinkedIn](https://www.linkedin.com/in/alex-vaisero-632b90265/)
-[Gmail](vaiserowork@gmail.com)
+- [Telegram](https://t.me/existin9)
+
+- [GitHub](https://github.com/Vaisero)
+
+- [LinkedIn](https://www.linkedin.com/in/alex-vaisero-632b90265/)
+
+- [Gmail](vaiserowork@gmail.com)
 
 
 
