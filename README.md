@@ -1,16 +1,17 @@
-### Hi there 👋
+## Hello 👋
 
-<!--
-**Vaisero/Vaisero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👀 My name is **Alexander Vaisero**
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### How to contact me 📫
+
+
+- [Telegram](https://t.me/VaiseroAlex)
+
+- [LinkedIn](https://www.linkedin.com/in/alex-vaisero-632b90265/)
+
+- [Gmail](vaiserowork@gmail.com)
+
+- [HH.ru](https://hh.ru/applicant/resumes/view?resume=d26f8544ff0c93ddae0039ed1f764d4c336e6f)
+
+- [CV.pdf](https://vaisero.tiiny.site/)
